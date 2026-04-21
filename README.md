@@ -10,3 +10,5 @@ Screenshot 4 hal :
 
 3. Halaman web masing masing pastikan di run dari docker  screenshot :
 
+Halaman form (tabel diisi dengan nama masing masing)
+
