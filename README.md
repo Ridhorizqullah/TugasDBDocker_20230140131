@@ -12,3 +12,5 @@ Screenshot 4 hal :
 
 Halaman form (tabel diisi dengan nama masing masing)
 
+4. Halaman web teman yang di pull screenshot:
+
